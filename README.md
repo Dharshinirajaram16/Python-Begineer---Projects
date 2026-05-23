@@ -5,6 +5,7 @@ Simple Calculator 🧮
 A beginner-friendly calculator project built using Python.
 
 Features
+
 ✅ Addition  
 ✅ Subtraction  
 ✅ Multiplication  
